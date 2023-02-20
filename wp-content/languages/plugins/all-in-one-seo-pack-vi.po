@@ -1,0 +1,845 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-22 03:46:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: languages/aioseo-lite.php:3636 languages/aioseo-pro.php:4671
+#: dist/Lite/assets/js/AboutUs.7dc2779f.js:1
+#: dist/Lite/assets/js/SitemapsPro.cbedc78f.js:1
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: languages/aioseo-lite.php:3005 languages/aioseo-pro.php:3869
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+#: dist/Lite/assets/js/GlobalSettings.a6e0fed2.js:1
+#: dist/Lite/assets/js/TitleDescription.7a667b19.js:1
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: languages/aioseo-lite.php:1626 languages/aioseo-pro.php:2154
+#: dist/Lite/assets/posts-table.09fe949b.js:1
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: languages/aioseo-lite.php:331 languages/aioseo-pro.php:419
+#: dist/Lite/assets/js/AboutUs.7dc2779f.js:1
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: languages/aioseo-lite.php:2919 languages/aioseo-pro.php:3748
+#: dist/Lite/assets/js/AboutUs.7dc2779f.js:1
+msgid "Install Plugin"
+msgstr "Cài đặt tiện ích"
+
+#: app/Common/Admin/Admin.php:208 languages/aioseo-lite.php:310
+#: languages/aioseo-pro.php:391 dist/Lite/assets/js/Main.dc6d76ba.js:1
+msgid "About Us"
+msgstr "Giới thiệu"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:603
+#: languages/aioseo-lite.php:3413 languages/aioseo-pro.php:4417
+msgid "never"
+msgstr "không bao giờ"
+
+#: languages/aioseo-lite.php:6286 languages/aioseo-pro.php:8171
+msgid "yearly"
+msgstr "hàng năm"
+
+#: languages/aioseo-lite.php:2664 languages/aioseo-pro.php:3412
+msgid "hourly"
+msgstr "hàng giờ"
+
+#: languages/aioseo-pro.php:5683
+msgid "Schema Settings"
+msgstr "Schema Cài đặt"
+
+#: languages/aioseo-lite.php:4301 languages/aioseo-pro.php:5558
+msgid "Reservations"
+msgstr "Đặt phòng"
+
+#: languages/aioseo-lite.php:4366 languages/aioseo-pro.php:5646
+msgid "Sales"
+msgstr "Bán hàng"
+
+#: languages/aioseo-lite.php:926 languages/aioseo-pro.php:1280
+msgid "Billing Support"
+msgstr "Hỗ trợ thanh toán"
+
+#: languages/aioseo-lite.php:4994 languages/aioseo-pro.php:6511
+msgid "Technical Support"
+msgstr "Hỗ trợ kỹ thuật"
+
+#: languages/aioseo-lite.php:1467 languages/aioseo-pro.php:1947
+#: dist/Lite/assets/js/Main.dc6d76ba.js:1
+msgid "Customer Support"
+msgstr "Hỗ trợ khách hàng"
+
+#: languages/aioseo-lite.php:3913 languages/aioseo-pro.php:5017
+#: dist/Lite/assets/blocks.270d25f9.js:1
+#: dist/Lite/assets/js/AdditionalInformation.594872f5.js:1
+#: dist/Lite/assets/js/GlobalSettings.a6e0fed2.js:1
+#: dist/Lite/assets/post-settings.14444430.js:1
+msgid "Phone Number"
+msgstr "Số điện thoại:"
+
+#: languages/aioseo-lite.php:3788 languages/aioseo-pro.php:4842
+#: dist/Lite/assets/js/AdditionalInformation.594872f5.js:1
+msgid "Organization Name"
+msgstr "Tên tổ chức:"
+
+#: languages/aioseo-pro.php:5191
+msgid "Posts"
+msgstr "Bài viết"
+
+#: languages/aioseo-lite.php:717 languages/aioseo-pro.php:967
+msgid "Archive"
+msgstr "Lưu trữ"
+
+#: app/Common/Utils/Tags.php:335 languages/aioseo-lite.php:1081
+#: languages/aioseo-pro.php:1480 dist/Lite/assets/js/Breadcrumbs.f04dd29e.js:1
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "Trang"
+
+#: app/Common/Admin/Notices/Review.php:100 languages/aioseo-lite.php:3579
+#: languages/aioseo-pro.php:4602 dist/Lite/assets/js/Index.909a7a9f.js:1
+#: dist/Lite/assets/js/ToolsSettings.c7becacb.js:1
+msgid "No thanks"
+msgstr "Không, cảm ơn"
+
+#: languages/aioseo-lite.php:2004 languages/aioseo-pro.php:2637
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+msgid "Exclude Images"
+msgstr "Không bao gồm ảnh"
+
+#: languages/aioseo-lite.php:2329 languages/aioseo-pro.php:3058
+#: dist/Lite/assets/js/WebmasterTools.2cc96f74.js:11
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: languages/aioseo-lite.php:5762 languages/aioseo-pro.php:7542
+#: dist/Lite/assets/js/Index.909a7a9f.js:1
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: languages/aioseo-lite.php:661 languages/aioseo-pro.php:895
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.e17b341c.js:1
+#: dist/Lite/assets/js/HeadlineAnalyzer.3481b396.js:1
+#: dist/Lite/assets/js/Score.c797a6c0.js:1
+msgid "Analyze"
+msgstr "Phân tích"
+
+#: languages/aioseo-lite.php:936 languages/aioseo-pro.php:1290
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "Block Bad Bots using HTTP"
+msgstr "Chặn các Bad Bot sử dụng HTTP"
+
+#: languages/aioseo-lite.php:939 languages/aioseo-pro.php:1293
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "Block Referral Spam using HTTP"
+msgstr "Chặn Referral Spam sử dụng HTTP"
+
+#: languages/aioseo-lite.php:5887 languages/aioseo-pro.php:7680
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "Use Custom Blocklists"
+msgstr "Sử dụng Tùy chỉnh Danh sách chặn"
+
+#: languages/aioseo-lite.php:2762 languages/aioseo-pro.php:3547
+#: dist/Lite/assets/js/Main.dc6d76ba.js:1
+#: dist/Lite/assets/js/Media.1ccd5b2f.js:1
+#: dist/Lite/assets/js/ToolsSettings.c7becacb.js:1
+msgid "Image SEO"
+msgstr "Hình ảnh SEO"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:71
+#: app/Lite/Main/Filters.php:63 languages/aioseo-lite.php:5797
+#: languages/aioseo-pro.php:7576 dist/Lite/assets/js/Index.909a7a9f.js:1
+#: dist/Lite/assets/js/SitemapsPro.cbedc78f.js:1
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp đến chuyên nghiệp"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:560 app/Lite/Main/Filters.php:48
+#: languages/aioseo-lite.php:4585 languages/aioseo-pro.php:5937
+#: dist/Lite/assets/js/ImportExport.06fcd682.js:1
+msgid "SEO Settings"
+msgstr "Thiết lập SEO"
+
+#: languages/aioseo-lite.php:3083 languages/aioseo-pro.php:3981
+#: dist/Lite/assets/js/GeneralSettings.4aa08299.js:1
+msgid "License Key"
+msgstr "Mã Bản quyền"
+
+#: languages/aioseo-lite.php:2056 languages/aioseo-pro.php:2741
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+msgid "Facebook Admin ID"
+msgstr "ID Quản trị Facebook"
+
+#: languages/aioseo-lite.php:2059 languages/aioseo-pro.php:2744
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+msgid "Facebook App ID"
+msgstr "ID Ứng dụng Facebook"
+
+#: languages/aioseo-lite.php:1886 languages/aioseo-pro.php:2487
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Enable Sitemap Indexes"
+msgstr "Kích hoạt chỉ mục sơ đồ trang"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+#: languages/aioseo-lite.php:4040 languages/aioseo-pro.php:5184
+#: dist/Lite/assets/blocks.270d25f9.js:1
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/HtmlSitemap.0fa74256.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Post Types"
+msgstr "Loại bài đăng"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+#: languages/aioseo-lite.php:4982 languages/aioseo-pro.php:6496
+#: dist/Lite/assets/blocks.270d25f9.js:1
+#: dist/Lite/assets/js/Breadcrumbs.f04dd29e.js:1
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/HtmlSitemap.0fa74256.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Taxonomies"
+msgstr "Nguyên tắc phân loại"
+
+#: languages/aioseo-lite.php:3844 languages/aioseo-pro.php:4933
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:2
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:3
+msgid "Page URL"
+msgstr "URL trang"
+
+#: languages/aioseo-lite.php:3036 languages/aioseo-pro.php:3908
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:2
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:3
+msgid "Last Modified"
+msgstr "Chỉnh sửa lần cuối"
+
+#: app/Common/Sitemap/Xsl.php:35 languages/aioseo-lite.php:440
+#: languages/aioseo-pro.php:589
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:3
+msgid "Additional Pages"
+msgstr "Các trang bổ sung"
+
+#: languages/aioseo-lite.php:423 languages/aioseo-pro.php:565
+#: dist/Lite/assets/js/Index.c4d61e8a.js:1
+msgid "Add URL"
+msgstr "Thêm URL"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "dynamically"
+msgstr "động"
+
+#: languages/aioseo-pro.php:2969 dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Front Page"
+msgstr "Trang Chủ"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226 languages/aioseo-lite.php:6293
+#: languages/aioseo-pro.php:8178
+msgid "Yes"
+msgstr "Có"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226 languages/aioseo-lite.php:3444
+#: languages/aioseo-pro.php:4457
+msgid "No"
+msgstr "Không"
+
+#: languages/aioseo-lite.php:2103 languages/aioseo-pro.php:2799
+#: dist/Lite/assets/js/Image.443d7a95.js:1
+msgid "Featured Image"
+msgstr "Ảnh chức năng cho bài viết"
+
+#: languages/aioseo-lite.php:4122 languages/aioseo-pro.php:5286
+msgid "Profile"
+msgstr "Cá nhân"
+
+#: languages/aioseo-lite.php:1064 languages/aioseo-pro.php:1446
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:2
+#: dist/Lite/assets/js/Index.c4d61e8a.js:1
+#: dist/Lite/assets/posts-table.09fe949b.js:1
+msgid "Cancel"
+msgstr "Hủy"
+
+#: languages/aioseo-lite.php:1786 languages/aioseo-pro.php:2350
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:3
+#: dist/Lite/assets/link-format/link-format-block.js:6
+#: dist/Lite/assets/posts-table.09fe949b.js:1
+msgid "Edit"
+msgstr "Sửa"
+
+#: languages/aioseo-lite.php:6276 dist/Lite/assets/js/Main.dc6d76ba.js:1
+msgid "XML Sitemap"
+msgstr "Sơ đồ trang XML"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "URL trang"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "URL trang chủ"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Nhiều trang"
+
+#: app/Common/Tools/SystemStatus.php:243 languages/aioseo-lite.php:357
+#: languages/aioseo-pro.php:464 dist/Lite/assets/js/SystemStatus.c6713ab2.js:1
+msgid "Active Theme"
+msgstr "Chủ đề hoạt động"
+
+#: languages/aioseo-lite.php:4895 languages/aioseo-pro.php:6403
+#: dist/Lite/assets/js/SystemStatus.c6713ab2.js:1
+#: dist/Lite/assets/link-format/link-format-block.js:6
+msgid "Submit"
+msgstr "Gửi"
+
+#: languages/aioseo-lite.php:5969 languages/aioseo-pro.php:7797
+#: dist/Lite/assets/js/RobotsEditor.fe642771.js:1
+msgid "User Agent"
+msgstr "Đại lý người dùng"
+
+#: languages/aioseo-lite.php:1651 languages/aioseo-pro.php:2182
+#: dist/Lite/assets/js/RobotsEditor.fe642771.js:1
+msgid "Directory Path"
+msgstr "Đường dẫn thư mục"
+
+#: languages/aioseo-lite.php:420 languages/aioseo-pro.php:559
+#: dist/Lite/assets/js/RobotsEditor.fe642771.js:1
+msgid "Add Rule"
+msgstr "Thêm Quy tắc"
+
+#: languages/aioseo-lite.php:590 languages/aioseo-pro.php:800
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Cho phép bạn chỉ định số bài đăng tối đa trong một sơ đồ trang (lên đến 50.000)."
+
+#: languages/aioseo-lite.php:4511 languages/aioseo-pro.php:5852
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/HtmlSitemap.0fa74256.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Chọn Loại Bài Đăng xuất hiện trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:2896 languages/aioseo-pro.php:3722
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Include Date Archives in your sitemap."
+msgstr "Bao gồm Ngày Lưu Trữ trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:2892 languages/aioseo-pro.php:3712
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/RssSitemap.0798ab96.js:1
+msgid "Include Author Archives in your sitemap."
+msgstr "Bao gồm Tác Giả Lưu Trữ trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:499 languages/aioseo-pro.php:670
+#: dist/Lite/assets/js/Advanced.96bdab7d.js:1
+#: dist/Lite/assets/js/Advanced.ff6452eb.js:1
+#: dist/Lite/assets/js/DisplayInfo.9f7ab376.js:1
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+#: dist/Lite/assets/js/GeneralSitemap.1bacb4f5.js:1
+#: dist/Lite/assets/js/HtmlSitemap.0fa74256.js:1
+#: dist/Lite/assets/js/Index.c4d61e8a.js:1
+#: dist/Lite/assets/js/Media.1ccd5b2f.js:1
+msgid "Advanced Settings"
+msgstr "Cài đặt nâng cao"
+
+#: languages/aioseo-lite.php:6041 languages/aioseo-pro.php:7877
+#: dist/Lite/assets/js/Main.fa7e7ca4.js:1
+msgid "View the Changelog"
+msgstr "Xem Nhật ký các thay đổi"
+
+#: languages/aioseo-lite.php:6066 languages/aioseo-pro.php:7899
+#: dist/Lite/assets/js/Main.fa7e7ca4.js:1
+msgid "Watch video tutorials"
+msgstr "Xem hướng dẫn video"
+
+#: languages/aioseo-lite.php:2376 languages/aioseo-pro.php:3101
+#: dist/Lite/assets/js/Main.fa7e7ca4.js:1
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Mới bắt đầu? Đọc Hướng dẫn cho người mới"
+
+#: languages/aioseo-lite.php:2455 languages/aioseo-pro.php:3180
+#: dist/Lite/assets/js/WebmasterTools.2cc96f74.js:11
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: app/Common/Admin/Admin.php:389 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: languages/aioseo-lite.php:3890 languages/aioseo-pro.php:4993
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.4e0aa41d.js:4
+msgid "Performance"
+msgstr "Hiệu suất"
+
+#: languages/aioseo-lite.php:6006 languages/aioseo-pro.php:7839
+#: dist/Lite/assets/js/Main.dc6d76ba.js:1
+#: dist/Lite/assets/js/VideoSitemap.bdd7acd6.js:1
+msgid "Video Sitemap"
+msgstr "Video sơ đồ trang"
+
+#: languages/aioseo-lite.php:1789 languages/aioseo-pro.php:2353
+#: dist/Lite/assets/js/HtaccessEditor.f98845e9.js:1
+msgid "Edit .htaccess"
+msgstr "Chỉnh sửa .htaccess"
+
+#: languages/aioseo-lite.php:4379 languages/aioseo-pro.php:5663
+#: dist/Lite/assets/posts-table.09fe949b.js:1
+msgid "Save"
+msgstr "Lưu"
+
+#: languages/aioseo-lite.php:3981 languages/aioseo-pro.php:5100
+#: dist/Lite/assets/posts-table.09fe949b.js:1
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+#: app/Common/Admin/Admin.php:542
+msgid "Edit SEO"
+msgstr "Chỉnh sửa SEO"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "SEO Tất Cả Trong Một"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53 languages/aioseo-lite.php:4949
+#: languages/aioseo-pro.php:6459 dist/Lite/assets/js/Main.fa7e7ca4.js:1
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: app/Common/Tools/SystemStatus.php:49 languages/aioseo-lite.php:5988
+#: languages/aioseo-pro.php:7819 dist/Lite/assets/js/SitemapsPro.cbedc78f.js:1
+msgid "Version"
+msgstr "Phiên bản"
+
+#: app/Common/Admin/Admin.php:200 languages/aioseo-lite.php:2100
+#: languages/aioseo-pro.php:2793 dist/Lite/assets/js/Main.7c86119c.js:1
+msgid "Feature Manager"
+msgstr "Trình quản lý tính năng"
+
+#: languages/aioseo-lite.php:4333 languages/aioseo-pro.php:5609
+#: dist/Lite/assets/js/ToolsSettings.c7becacb.js:1
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: languages/aioseo-lite.php:2042 languages/aioseo-pro.php:2710
+#: dist/Lite/assets/js/ImportExport.06fcd682.js:1
+msgid "Export Settings"
+msgstr "Cài đặt xuất"
+
+#: languages/aioseo-lite.php:5694 languages/aioseo-pro.php:7447
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: languages/aioseo-lite.php:2053 languages/aioseo-pro.php:2738
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/aioseo-lite.php:2789 languages/aioseo-pro.php:3576
+#: dist/Lite/assets/js/AdditionalPages.487fa9bb.js:2
+#: dist/Lite/assets/js/ImportExport.06fcd682.js:1
+msgid "Import"
+msgstr "Nhập"
+
+#: languages/aioseo-lite.php:5747 languages/aioseo-pro.php:7506
+msgid "University"
+msgstr "Đại học"
+
+#: languages/aioseo-lite.php:366 languages/aioseo-pro.php:473
+msgid "Actor"
+msgstr "Diễn viên"
+
+#: languages/aioseo-lite.php:798 languages/aioseo-pro.php:1111
+msgid "Athlete"
+msgstr "Vận động viên"
+
+#: languages/aioseo-lite.php:817 languages/aioseo-pro.php:1135
+#: dist/Lite/assets/js/WebmasterTools.999bcfc5.js:1
+msgid "Author"
+msgstr "Tác giả"
+
+#: languages/aioseo-lite.php:1636 languages/aioseo-pro.php:2167
+msgid "Director"
+msgstr "Giám đốc"
+
+#: languages/aioseo-lite.php:3369 languages/aioseo-pro.php:4369
+msgid "Musician"
+msgstr "Nhạc sĩ"
+
+#: languages/aioseo-lite.php:3993 languages/aioseo-pro.php:5116
+msgid "Politician"
+msgstr "Chính trị gia"
+
+#: languages/aioseo-lite.php:4125 languages/aioseo-pro.php:5295
+msgid "Public Figure"
+msgstr "Người nổi tiếng"
+
+#: languages/aioseo-lite.php:1166 languages/aioseo-pro.php:1597
+#: dist/Lite/assets/post-settings.14444430.js:1
+msgid "City"
+msgstr "Thành phố"
+
+#: languages/aioseo-lite.php:1386 languages/aioseo-pro.php:1843
+#: dist/Lite/assets/post-settings.14444430.js:1
+msgid "Country"
+msgstr "Quốc gia"
+
+#: languages/aioseo-lite.php:3027 languages/aioseo-pro.php:3893
+msgid "Landmark"
+msgstr "Ranh giới"
+
+#: languages/aioseo-lite.php:5756 languages/aioseo-pro.php:7530
+#: dist/Lite/assets/js/Main.d7a2d608.js:1
+msgid "Update Options"
+msgstr "Cập nhật các tuỳ chọn"
+
+#: languages/aioseo-lite.php:363 languages/aioseo-pro.php:470
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: languages/aioseo-lite.php:4842 languages/aioseo-pro.php:6346
+msgid "Sport"
+msgstr "Thể thao"
+
+#: languages/aioseo-lite.php:889 languages/aioseo-pro.php:1224
+msgid "Bar"
+msgstr "Bar"
+
+#: languages/aioseo-lite.php:1258 languages/aioseo-pro.php:1700
+msgid "Company"
+msgstr "Công ty"
+
+#: languages/aioseo-lite.php:1058 languages/aioseo-pro.php:1436
+msgid "Cafe"
+msgstr "Cafe"
+
+#: languages/aioseo-lite.php:2661 languages/aioseo-pro.php:3409
+msgid "Hotel"
+msgstr "Khách sạn"
+
+#: languages/aioseo-lite.php:4317 languages/aioseo-pro.php:5579
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#: languages/aioseo-lite.php:1090 languages/aioseo-pro.php:1489
+msgid "Cause"
+msgstr "Nguyên nhân"
+
+#: languages/aioseo-lite.php:4848 languages/aioseo-pro.php:6352
+msgid "Sports League"
+msgstr "Giải đấu thể thao"
+
+#: languages/aioseo-lite.php:4851 languages/aioseo-pro.php:6355
+msgid "Sports Team"
+msgstr "Đội thể thao"
+
+#: languages/aioseo-lite.php:886 languages/aioseo-pro.php:1221
+msgid "Band"
+msgstr "Ban nhạc"
+
+#: languages/aioseo-lite.php:4402 languages/aioseo-pro.php:5692
+msgid "School"
+msgstr "Trường học"
+
+#: languages/aioseo-lite.php:529 languages/aioseo-pro.php:717
+msgid "Album"
+msgstr "Album"
+
+#: languages/aioseo-lite.php:959 languages/aioseo-pro.php:1318
+msgid "Book"
+msgstr "Sách"
+
+#: languages/aioseo-lite.php:1741 languages/aioseo-pro.php:2300
+msgid "Drink"
+msgstr "Nước uống"
+
+#: languages/aioseo-lite.php:2204 languages/aioseo-pro.php:2904
+msgid "Food"
+msgstr "Thức ăn"
+
+#: languages/aioseo-lite.php:2264 languages/aioseo-pro.php:2986
+msgid "Game"
+msgstr "Trò chơi"
+
+#: languages/aioseo-lite.php:3357 languages/aioseo-pro.php:4352
+msgid "Movie"
+msgstr "Phim"
+
+#: languages/aioseo-lite.php:4107 languages/aioseo-pro.php:5265
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: languages/aioseo-lite.php:4824 languages/aioseo-pro.php:6326
+msgid "Song"
+msgstr "Bài hát"
+
+#: languages/aioseo-lite.php:5689 languages/aioseo-pro.php:7442
+msgid "TV Show"
+msgstr "Chương trình TV"
+
+#: languages/aioseo-lite.php:1987 languages/aioseo-pro.php:2619
+msgid "Episode"
+msgstr "Tập"
+
+#: languages/aioseo-lite.php:760 languages/aioseo-pro.php:1069
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+#: dist/Lite/assets/js/Schema.94c12867.js:1
+msgid "Article"
+msgstr "Bài viết"
+
+#: languages/aioseo-lite.php:949 languages/aioseo-pro.php:1303
+#: dist/Lite/assets/js/Breadcrumbs.f04dd29e.js:1
+#: dist/Lite/assets/js/Category.979c4cb1.js:1
+msgid "Blog"
+msgstr "Blog"
+
+#: languages/aioseo-lite.php:6140 languages/aioseo-pro.php:7999
+msgid "Website"
+msgstr "Trang web"
+
+#: languages/aioseo-lite.php:4730 languages/aioseo-pro.php:6214
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+msgid "Site Name"
+msgstr "Tên trang"
+
+#: languages/aioseo-lite.php:4932 languages/aioseo-pro.php:6441
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+#: dist/Lite/assets/js/Twitter.23de25f4.js:1
+msgid "Summary"
+msgstr "Tổng kết"
+
+#: languages/aioseo-lite.php:5700 languages/aioseo-pro.php:7453
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Twitter Card Type"
+msgstr "Loại thẻ Twitter"
+
+#: languages/aioseo-lite.php:4718 languages/aioseo-pro.php:6174
+#: dist/Lite/assets/js/Twitter.23de25f4.js:1
+msgid "Show Twitter Author"
+msgstr "Hiện tác giả Twitter"
+
+#: languages/aioseo-lite.php:849 languages/aioseo-pro.php:1183
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+msgid "Automatically Generate Article Tags"
+msgstr "Tạo tự động thẻ bài viết"
+
+#: languages/aioseo-lite.php:4007 languages/aioseo-pro.php:5130
+#: dist/Lite/assets/js/Image.443d7a95.js:1
+msgid "Post Author Image"
+msgstr "Ảnh tác giả bài đăng"
+
+#: languages/aioseo-lite.php:2130 languages/aioseo-pro.php:2827
+#: dist/Lite/assets/js/Image.443d7a95.js:1
+msgid "First Available Image"
+msgstr "Ảnh khả dụng đầu tiên"
+
+#: languages/aioseo-lite.php:2748 languages/aioseo-pro.php:3530
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+#: dist/Lite/assets/js/Locations.cf71f8c0.js:1
+#: dist/Lite/assets/post-settings.14444430.js:1
+msgid "Image"
+msgstr "Ảnh"
+
+#: languages/aioseo-lite.php:1444 languages/aioseo-pro.php:1920
+#: dist/Lite/assets/js/Image.443d7a95.js:1
+msgid "Custom Image"
+msgstr "Tuỳ chỉnh ảnh"
+
+#: languages/aioseo-pro.php:5676
+msgid "Scan Now"
+msgstr "Quét ngay"
+
+#: languages/aioseo-lite.php:3666 languages/aioseo-pro.php:4708
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+msgid "Object Type"
+msgstr "Loại đối tượng"
+
+#: languages/aioseo-lite.php:4955 languages/aioseo-pro.php:6465
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "Không thiết lập"
+
+#: languages/aioseo-lite.php:763 languages/aioseo-pro.php:1072
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Article Section"
+msgstr "Phần bài viết"
+
+#: languages/aioseo-lite.php:766 languages/aioseo-pro.php:1075
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+msgid "Article Tags"
+msgstr "Thẻ bài viết"
+
+#: languages/aioseo-lite.php:3897 languages/aioseo-pro.php:5000
+#: dist/Lite/assets/js/AdditionalInformation.594872f5.js:1
+#: dist/Lite/assets/js/GlobalSettings.a6e0fed2.js:1
+msgid "Person"
+msgstr "Cá nhân"
+
+#: languages/aioseo-lite.php:3785 languages/aioseo-pro.php:4839
+#: dist/Lite/assets/js/AdditionalInformation.594872f5.js:1
+#: dist/Lite/assets/js/GlobalSettings.a6e0fed2.js:1
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: languages/aioseo-pro.php:6293
+msgid "Social Settings"
+msgstr "Cài đặt xã hội"
+
+#: languages/aioseo-lite.php:3686 languages/aioseo-pro.php:4727
+msgid "On"
+msgstr "Bật"
+
+#: languages/aioseo-lite.php:3676 languages/aioseo-pro.php:4717
+msgid "Off"
+msgstr "Tắt"
+
+#: app/Common/Tools/SystemStatus.php:186 languages/aioseo-lite.php:3376
+#: languages/aioseo-pro.php:4376 dist/Lite/assets/publish-panel.87ab10f6.js:1
+msgid "N/A"
+msgstr "N/A"
+
+#: app/Common/Tools/SystemStatus.php:177 languages/aioseo-pro.php:4829
+msgid "Operating System"
+msgstr "Hệ điều hành"
+
+#: languages/aioseo-lite.php:4606 languages/aioseo-pro.php:5959
+msgid "Server"
+msgstr "Máy chủ"
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "Giới hạn bộ nhớ PHP"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "Kích thước tải lên tối đa PHP"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "Kích thước bài đăng tối đa PHP"
+
+#: languages/aioseo-lite.php:2647 languages/aioseo-pro.php:3395
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+#: dist/Lite/assets/js/Twitter.23de25f4.js:1
+msgid "Home Page Settings"
+msgstr "Cài đặt trang chủ"
+
+#: languages/aioseo-lite.php:1696 languages/aioseo-pro.php:2248
+msgid "Display Settings"
+msgstr "Cài đặt hiển thị"
+
+#: app/Common/Admin/Admin.php:301 app/Common/Models/Post.php:440
+#: app/Common/Views/sitemap/html/widget-options.php:13
+#: languages/aioseo-lite.php:5492 languages/aioseo-pro.php:7208
+#: dist/Lite/assets/js/App.a2f8b250.js:1
+#: dist/Lite/assets/js/Facebook.d3de377d.js:1
+#: dist/Lite/assets/js/Media.1ccd5b2f.js:1
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: app/Common/Utils/Tags.php:532 languages/aioseo-lite.php:1618
+#: languages/aioseo-pro.php:2146 dist/Lite/assets/js/Facebook.d3de377d.js:1
+#: dist/Lite/assets/js/Media.1ccd5b2f.js:1
+#: dist/Lite/assets/js/Twitter.23de25f4.js:1
+msgid "Description"
+msgstr "Miêu tả"
+
+#: languages/aioseo-lite.php:1621 languages/aioseo-pro.php:2149
+#: dist/Lite/assets/js/Advanced.ff6452eb.js:1
+msgid "Description Format"
+msgstr "Định dạng miêu tả"
+
+#: languages/aioseo-lite.php:1904 languages/aioseo-pro.php:2512
+msgid "Enabled"
+msgstr "Đã kích hoạt"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153 languages/aioseo-lite.php:1654
+#: languages/aioseo-pro.php:2188
+msgid "Disabled"
+msgstr "Đã vô hiệu hoá"
+
+#: languages/aioseo-lite.php:5444 languages/aioseo-pro.php:7149
+#: dist/Lite/assets/js/Advanced.ff6452eb.js:1
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Tuỳ chọn này cho phép bạn chuyển đổi sử dụng Từ khoá Meta trong suốt toàn bộ trang."
+
+#: languages/aioseo-lite.php:1105 languages/aioseo-pro.php:1522
+#: dist/Lite/assets/js/Advanced.ff6452eb.js:1
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các chuyên mục của bạn cho một bài đăng được sử dụng như Từ khoá Meta cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: languages/aioseo-lite.php:1111 languages/aioseo-pro.php:1528
+#: dist/Lite/assets/js/Advanced.ff6452eb.js:1
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các thẻ của bạn cho một bài đăng được sử dụng như Từ khoá Mtea cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: app/Common/Admin/Admin.php:162 languages/aioseo-lite.php:2275
+#: languages/aioseo-pro.php:3001 dist/Lite/assets/js/Main.2dfb58c0.js:1
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: languages/aioseo-lite.php:873 languages/aioseo-pro.php:1208
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+#: dist/Lite/assets/js/ToolsSettings.c7becacb.js:1
+msgid "Bad Bot Blocker"
+msgstr "Trình chặn chương trình xấu"
+
+#: languages/aioseo-lite.php:5624 languages/aioseo-pro.php:7372
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "Track Blocked Bots"
+msgstr "Theo dõi các chương trình đã chặn"
+
+#: languages/aioseo-lite.php:5972 languages/aioseo-pro.php:7800
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "User Agent Blocklist"
+msgstr "Danh sách chặn đại lý người dùng"
+
+#: languages/aioseo-lite.php:4241 languages/aioseo-pro.php:5478
+#: dist/Lite/assets/js/BadBotBlocker.87256dca.js:1
+msgid "Referer Blocklist"
+msgstr "Danh sách chặn người giới thiệu"

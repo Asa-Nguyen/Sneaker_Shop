@@ -1,0 +1,140 @@
+# BEGIN NITROPACK
+
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+
+RewriteRule .* - [E=Cache-Control:vary=nitrodesktop]
+
+RewriteCond %{HTTP_USER_AGENT} Android|iPad|RIM\ Tablet|hp-tablet|Kindle\ Fire [NC]
+RewriteRule .* - [E=Cache-Control:vary=nitrotablet]
+
+RewriteCond %{HTTP_USER_AGENT} iPod|iPhone|MobileSafari|webOS|BlackBerry|windows\ phone|symbian|vodafone|opera\ mini|windows\ ce|smartphone|palm|midp [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} Android.*Mobile [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} Mobile.*Android [NC]
+RewriteRule .* - [E=Cache-Control:vary=nitromobile]
+
+CacheKeyModify -qs:utm_*
+CacheKeyModify -qs:fbclid
+CacheKeyModify -qs:gclid
+CacheKeyModify -qs:gbraid
+CacheKeyModify -qs:wbraid
+CacheKeyModify -qs:epik
+CacheKeyModify -qs:msclkid
+CacheKeyModify -qs:zenid
+CacheKeyModify -qs:_gl
+CacheKeyModify -qs:lons1
+CacheKeyModify -qs:appns
+CacheKeyModify -qs:tstt1
+CacheKeyModify -qs:tsts6
+CacheKeyModify -qs:tsts12
+CacheKeyModify -qs:lpcid
+CacheKeyModify -qs:3x-7
+CacheKeyModify -qs:mm_src
+CacheKeyModify -qs:muid
+CacheKeyModify -qs:vgo_ee
+CacheKeyModify -qs:mn
+CacheKeyModify -qs:irclickid
+CacheKeyModify -qs:irgwc
+CacheKeyModify -qs:_xuid
+CacheKeyModify -qs:_kx
+CacheKeyModify -qs:ref
+CacheKeyModify -qs:fb_action_ids
+CacheKeyModify -qs:fb_action_types
+CacheKeyModify -qs:fb_source
+CacheKeyModify -qs:dclid
+CacheKeyModify -qs:_ga
+CacheKeyModify -qs:cn-reloaded
+CacheKeyModify -qs:age-verified
+CacheKeyModify -qs:ao_noptimize
+CacheKeyModify -qs:usqp
+CacheKeyModify -qs:mkt_tok
+CacheKeyModify -qs:ck_subscriber_id
+CacheKeyModify -qs:age-verified
+CacheKeyModify -qs:usqp
+CacheKeyModify -qs:cn-reloaded
+CacheKeyModify -qs:sscid
+CacheKeyModify -qs:ef_id
+CacheKeyModify -qs:s_kwcid
+CacheKeyModify -qs:_bta_tid
+CacheKeyModify -qs:_bta_c
+CacheKeyModify -qs:dm_i
+CacheKeyModify -qs:campaignid
+CacheKeyModify -qs:adgroupid
+CacheKeyModify -qs:adid
+CacheKeyModify -qs:gclsrc
+CacheKeyModify -qs:gdfms
+CacheKeyModify -qs:gdftrk
+CacheKeyModify -qs:gdffi
+CacheKeyModify -qs:_ke
+CacheKeyModify -qs:trk_contact
+CacheKeyModify -qs:trk_msg
+CacheKeyModify -qs:trk_module
+CacheKeyModify -qs:trk_sid
+CacheKeyModify -qs:mc_cid
+CacheKeyModify -qs:mc_eid
+CacheKeyModify -qs:mkwid
+CacheKeyModify -qs:pcrid
+CacheKeyModify -qs:mtm_source
+CacheKeyModify -qs:mtm_medium
+CacheKeyModify -qs:mtm_campaign
+CacheKeyModify -qs:mtm_keyword
+CacheKeyModify -qs:mtm_cid
+CacheKeyModify -qs:mtm_content
+CacheKeyModify -qs:pp
+CacheKeyModify -qs:pk_source
+CacheKeyModify -qs:pk_medium
+CacheKeyModify -qs:pk_campaign
+CacheKeyModify -qs:pk_keyword
+CacheKeyModify -qs:pk_cid
+CacheKeyModify -qs:pk_content
+CacheKeyModify -qs:redirect_log_mongo_id
+CacheKeyModify -qs:redirect_mongo_id
+CacheKeyModify -qs:sb_referer_host
+CacheKeyModify -qs:pk_kwd
+CacheKeyModify -qs:piwik_campaign
+CacheKeyModify -qs:piwik_kwd
+CacheKeyModify -qs:piwik_keyword
+CacheKeyModify -qs:mtm_group
+CacheKeyModify -qs:mtm_placement
+CacheKeyModify -qs:matomo_campaign
+CacheKeyModify -qs:matomo_keyword
+CacheKeyModify -qs:matomo_source
+CacheKeyModify -qs:matomo_medium
+CacheKeyModify -qs:matomo_content
+CacheKeyModify -qs:matomo_cid
+CacheKeyModify -qs:matomo_group
+CacheKeyModify -qs:matomo_placement
+CacheKeyModify -qs:hsa_cam
+CacheKeyModify -qs:hsa_grp
+CacheKeyModify -qs:hsa_mt
+CacheKeyModify -qs:hsa_src
+CacheKeyModify -qs:hsa_ad
+CacheKeyModify -qs:hsa_acc
+CacheKeyModify -qs:hsa_net
+CacheKeyModify -qs:hsa_kw
+CacheKeyModify -qs:hsa_tgt
+CacheKeyModify -qs:hsa_ver
+CacheKeyModify -qs:_branch_match_id
+
+</IfModule>
+
+# END NITROPACK
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
+# BEGIN FRedirect_ErrorDocument
+# The directives (lines) between "BEGIN FRedirect_ErrorDocument" and "END FRedirect_ErrorDocument" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+ErrorDocument 404 /index.php?error=404
+
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
+php_value max_execution_time 300
+php_value max_input_time 300
+# END FRedirect_ErrorDocument

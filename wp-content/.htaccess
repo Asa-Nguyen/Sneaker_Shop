@@ -1,0 +1,10 @@
+
+# BEGIN All_404_marker_comment_image
+RewriteOptions inherit
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+RewriteRule \.(gif|jpe?g|png|bmp) http://mfw021.wcom.vn/wp-content/uploads/2022/08/Classic-Lace-On-Sneakers_Qh-EcrKrxzN-150x150.webp [NC,L]
+</IfModule>
+
+# END All_404_marker_comment_image

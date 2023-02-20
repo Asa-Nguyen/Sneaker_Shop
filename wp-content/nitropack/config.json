@@ -1,0 +1,31 @@
+{
+    "mfw021.wcom.vn": {
+        "siteId": "dLyZJoEBiEPWziWqGwWiJdHLRPzThJVF",
+        "siteSecret": "wS9yvIMgWrEZ8xs9Ni5yrlCD7OVI1YYnr06cO2oN2kIRr7i9jBQMqV7xBSbg4ofa",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "c5fbeefb46549cdb2fb7bb61e9cd87c4",
+        "home_url": "https:\/\/mfw021.wcom.vn",
+        "admin_url": "https:\/\/mfw021.wcom.vn\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": true,
+        "isAeliaCurrencySwitcherActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.15",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": "base",
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        }
+    },
+    "config_path": "385b3df7cc22168faa0f2b82d14ffe44"
+}
